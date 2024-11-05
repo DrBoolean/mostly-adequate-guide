@@ -45,6 +45,11 @@ Alternatively, exercises of each chapter are runnable and can be completed in yo
 $ npm run ch04
 ```
 
+Or if you’d prefer to skip the local setup, you can get this project running instantly with Codeanywhere. Just click the button below to get started and work seamlessly in your local VS Code or directly in your browser.
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/MostlyAdequate/mostly-adequate-guide)
+
+
 ## Download it
 
 Find pre-generated **PDF** and **EPUB** as [build artifacts of the latest release](https://github.com/MostlyAdequate/mostly-adequate-guide/releases/latest).
